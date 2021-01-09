@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# B012ED deface
 
-You can use the [editor on GitHub](https://github.com/B012ED/Deface/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+what is B012ED deface tools?<br>
+B012ED deface is a tool for defacing dozens or hundreds of sites at once,depending on the number
+of sites that have been determined by you, this is not dangerous, and this is only the file upload method<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**how to install and usage:**
 
-### Markdown
+**Termux:**
+* `pkg install python2`
+* `pip2 install requests`
+* `pkg install git`
+* `git clone https://github.com/B012ED/deface`
+* `unzip deface`
+* `cd deface`
+* `python2 def.py`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Linux:**
+* `apt-get install python`
+* `apt-get install python-pip`
+* `pip install requests`
+* `apt-get install git`
+* `git clone https://github.com/B012ED/deface`
+* `unzip deface`
+* `cd deface`
+* `python def.py`
 
-```markdown
-Syntax highlighted code block
+**NOTE:** before using this tool, put your deface script with the def.py file, edit the file 'target.txt' and enter the target url
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/B012ED/Deface/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
