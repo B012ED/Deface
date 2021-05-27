@@ -1,6 +1,6 @@
 # B012ED deface
 
-what is B012ED deface tools?<br>
+What is B012ED deface tools?<br>
 B012ED deface is a tool for defacing dozens or hundreds of sites at once,depending on the number
 of sites that have been determined by you, this is not dangerous, and this is only the file upload method<br>
 
