@@ -1,5 +1,7 @@
 # B012ED deface
 
+[![Chat Bored](https://img.shields.io/badge/Chat-B012ED-738BD7.svg?style=for-the-badge)](https://b012ed.github.io/chat.html) 
+
 What is B012ED deface tools?<br>
 B012ED deface is a tool for defacing dozens or hundreds of sites at once,depending on the number
 of sites that have been determined by you, this is not dangerous, and this is only the file upload method<br>
