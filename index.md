@@ -12,7 +12,7 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `pkg install python2`
 * `pip2 install requests`
 * `pkg install git`
-* `git clone https://github.com/B012ED/deface`
+* `git clone https://github.com/B012ED/deface.git`
 * `cd deface`
 * `python2 def.py`
 
@@ -21,7 +21,7 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `apt-get install python-pip`
 * `pip install requests`
 * `apt-get install git`
-* `git clone https://github.com/B012ED/deface`
+* `git clone https://github.com/B012ED/deface.git`
 * `cd deface`
 * `python def.py`
 
