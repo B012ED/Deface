@@ -1,6 +1,8 @@
 # B012ED deface
 
-what is B012ED deface tools?<br>
+[![Chat Bored](https://img.shields.io/badge/Chat-B012ED-738BD7.svg?style=for-the-badge)](https://b012ed.github.io/chat.html) 
+
+What is B012ED deface tools?<br>
 B012ED deface is a tool for defacing dozens or hundreds of sites at once,depending on the number
 of sites that have been determined by you, this is not dangerous, and this is only the file upload method<br>
 
@@ -11,7 +13,6 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `pip2 install requests`
 * `pkg install git`
 * `git clone https://github.com/B012ED/deface`
-* `unzip deface`
 * `cd deface`
 * `python2 def.py`
 
@@ -21,9 +22,9 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `pip install requests`
 * `apt-get install git`
 * `git clone https://github.com/B012ED/deface`
-* `unzip deface`
 * `cd deface`
 * `python def.py`
 
 **NOTE:** before using this tool, put your deface script with the def.py file, edit the file 'target.txt' and enter the target url
+
 
