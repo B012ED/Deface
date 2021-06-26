@@ -1,7 +1,7 @@
 # Scrypt By YUSA
 # YT B012ED
-import marshal,zlib,base64
 
+import marshal,zlib,base64
 #exec(marshal.loads('https://b012ed.github.io')
 #zlib&base32&marshal"exec(marshal.load('HgHhbjggTfghUggUgffUhghJhhIbbiGgtGfghHhhuHhjiiBbjjBbhgGggGggTrdFdeSddssGhHhhOjbKinjIjbjIhhhHhggHghhUyggGggggGgggHhGTTTyhhfDdsHjiJiGgjJvvJujGjuHgDdRrgYyyUu')
 
