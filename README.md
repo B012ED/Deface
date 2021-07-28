@@ -19,8 +19,8 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `python2 def.py`
 
 **Linux:**
-* `apt-get install python`
-* `apt-get install python-pip`
+* `apt-get install python2`
+* `apt-get install python2-pip`
 * `pip install requests`
 * `apt-get install git`
 * `git clone https://github.com/B012ED/deface.git`
